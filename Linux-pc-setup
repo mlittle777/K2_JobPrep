@@ -1,0 +1,31 @@
+Setting up a new pc on linux
+
+1. Install Linux
+2. Update Packages
+3. Download Chrome
+4. Install Lastpass in Chrome
+4a. Install Anaconda
+5. Log in to Chrome browser (to pick up bookmarks)
+6. At terminal install vim
+7. make changes to .bash_profile and .bashrc to implement things learned from  "Learn enough..." tutorials (see email in gmail All with txt files)
+8. Set up Git (check at terminal it's installed)
+9. One time setup commands from Learn Enough...
+9. Install ssh keys
+10. Clone repos from GitHub
+11. From K2 python intro JNB 08 plotting - install quandl and ipywidgets
+12. install ffmpeg
+13. use "which ffmpeg" to confirm path, in JNB run
+14. From K2 scipy intro tool-matplot lib JNB : plt.rcParams['animation.ffmpeg_path'] = u'/usr/bin/ffmpeg'
+this will allow saving animations to files
+15. Install and customize atom
+ - preferences>editor> soft wrap x2 and tabs 4 (for python)
+ - preferences>themes> set syntax theme to Solarized Dark
+  -preferences>packages> search for and install community pacakges:
+        - autocomplete-python
+        - clipboard-plus
+        - git-plus
+        - highlight-selected
+        - minimap
+        - open-recent
+        - pigments
+        - python-tools
